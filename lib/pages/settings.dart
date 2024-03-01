@@ -56,7 +56,7 @@ class Settings extends StatelessWidget {
           endIndent: 16,
           indent: 16,
         ),
-        GestureDetector(
+        /* GestureDetector(
           onTap: () {
             Navigator.of(context).push<void>(
               MaterialPageRoute<void>(
@@ -74,7 +74,7 @@ class Settings extends StatelessWidget {
               color: Theme.of(context).colorScheme.onBackground,
             ),
           ),
-        ),
+        ),*/
       ],
     );
   }

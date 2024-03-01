@@ -3,10 +3,10 @@ import 'package:flutter/material.dart';
 class GruvboxDarkPalette {
   GruvboxDarkPalette._();
 
-  static const bg = Color(0xFF282828);
-  static const bg0h = Color(0xFF1d2021);
+  static const bg = Color(0xFF1B1B1C);
+  static const bg0h = Color(0xff0c0b0b);
   static const bg0s = Color(0xFF32302f);
-  static const bg1 = Color(0xFF3c3836);
+  static const bg1 = Color(0xff1f1c1c);
   static const bg2 = Color(0xFF504945);
   static const bg3 = Color(0xFF665c54);
   static const bg4 = Color(0xFF7c6f64);
@@ -30,22 +30,22 @@ class GruvboxDarkPalette {
   static const lightPurple = Color(0xFFd3869b);
   static const darkAqua = Color(0xFF689d6a);
   static const lightAqua = Color(0xFF8ec07c);
-  static const darkGrey = Color(0xFFa89984);
-  static const lightGrey = Color(0xFFebdbb2);
-  static const darkOrange = Color(0xFFd65d0e);
-  static const lightOrange = Color(0xFFfe8019);
+  static const darkGrey = Color(0xffffffff);
+  static const lightGrey = Color(0xfff5f5f5);
+  static const darkOrange = Color(0xff278bee);
+  static const lightOrange = Color(0xffaad1fd);
 }
 
 class GruvboxLightPalette {
   GruvboxLightPalette._();
 
-  static const bg = Color(0xFFfbf1c7);
-  static const bg0h = Color(0xFFf9f5d7);
-  static const bg0s = Color(0xFFf2e5bc);
-  static const bg1 = Color(0xFFebdbb2);
-  static const bg2 = Color(0xFFd5c4a1);
-  static const bg3 = Color(0xFFbdae93);
-  static const bg4 = Color(0xFFa89984);
+  static const bg = Color(0xffffffff);
+  static const bg0h = Color(0xffffffff);
+  static const bg0s = Color(0xfffcfcfc);
+  static const bg1 = Color(0xffffffff);
+  static const bg2 = Color(0xffe5e5e5);
+  static const bg3 = Color(0xffffffff);
+  static const bg4 = Color(0xfffdfdfd);
 
   static const fg = Color(0xFF3c3836);
   static const fg0 = Color(0xFF282828);
