@@ -40,14 +40,14 @@
 ### Tools required
 
 - [Flutter SDK](https://docs.flutter.dev/get-started/install/windows)
-- [Android studio](https://developer.android.com/studio). Follow the instructions [here](https://docs.flutter.dev/get-started/install/windows#android-setup) to get it work on windows.
+- [Android studio](https://developer.android.com/studio).
 - VS Code (Optional). You need to install [Flutter plugin](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
 ### Build
 
 ```shell
-git clone https://github.com/AbdeltwabMF/loc.git
-cd loc
+git clone https://github.com/ibrahimm-GitHub/AlarmME.git
+cd AlarmME
 flutter pub get
 ```
 
