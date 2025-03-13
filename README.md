@@ -2,8 +2,8 @@
   <img src="assets/images/icon.png" height="200px"></img>
 </div>
 
-<h1 align="center">Loc</h1>
-<h3 align="center">Free and open-source location-based reminder for Android.</h3>
+<h1 align="center">AlarmMe</h1>
+<h3 align="center">open-source location-based reminder for Android.</h3>
 
 
 <p align='center'>
